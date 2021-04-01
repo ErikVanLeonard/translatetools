@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# GOS2-TOOLS
+Herramienta diseñada por TheBardockGames#0792 para la modificacion de "Neon Genesis Evangelion: Girlfriend of steel 2" para el equipo de NGE ANIMA https://www.facebook.com/NGEAnima/
 
-You can use the [editor on GitHub](https://github.com/ErikVanLeonard/translatetools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![alt text](https://cdn.discordapp.com/attachments/274425161678192640/822925589480603678/unknown.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# COMPILADOR DE DIALOGOS E IMAGENES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![alt text](https://cdn.discordapp.com/attachments/786326512193896542/822916310567485440/unknown.png)
 
-```markdown
-Syntax highlighted code block
+# CONVERTIDOR DE ARCHIVOS TX3 - TXT , BP3 - BMP
+![alt text](https://cdn.discordapp.com/attachments/786326512193896542/822916224907477053/unknown.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ErikVanLeonard/translatetools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# VISUALIZADOR DE IMAGENES SIN NECESIDAD DE CONVERTIR A BMP ADEMAS DE PODER REEMPLAZAR LAS IMAGENES DIRECTAMENTE Y EXTRAERLAS
+![alt text](https://cdn.discordapp.com/attachments/786326512193896542/822916143923855380/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/274425161678192640/822927570907430952/unknown.png)
